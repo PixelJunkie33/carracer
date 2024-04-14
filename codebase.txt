@@ -1,0 +1,34 @@
+Sure, here's a comprehensive problem set focusing on acceleration and velocity:
+1. **Objects**:
+- This problem set is designed for master's level college students studying physics and
+JavaScript programming.
+2. **Learning Outcomes**:
+- Understand the concepts of acceleration and velocity in physics.
+- Apply JavaScript programming skills to simulate and visualize these concepts.
+- Gain experience in implementing interactive web applications for educational purposes.
+3. **Tools Needed**:
+- JavaScript for programming logic.
+- CSS for styling and layout.
+- HTML for structuring the web application.
+4. **Overview**:
+- In this problem set, students will create a web-based application to visualize the motion of
+an object under the influence of acceleration and velocity.
+5. **The Problem**:
+- Design and implement a web application that simulates the motion of a car accelerating
+from rest. The application should visually display the position, velocity, and acceleration of the
+car over time. Users should be able to adjust parameters such as the initial velocity,
+acceleration rate, and duration of acceleration.
+6. **Parameters for the Project**:
+- Initial velocity (v0): The starting velocity of the car (m/s).
+- Acceleration rate (a): The rate at which the car accelerates (m/s^2).
+- Duration of acceleration (t): The time period over which acceleration occurs (s).
+
+
+8. **Expected Deliverables**:
+- A fully functional web application written in HTML, CSS, and JavaScript.
+- Interactive controls for adjusting parameters such as initial velocity, acceleration rate, and
+duration of acceleration.
+- Visual representations of the car's position, velocity, and acceleration over time.
+By following this template, students will have a structured framework for developing their
+understanding of acceleration and velocity while also honing their JavaScript programming
+skills.
